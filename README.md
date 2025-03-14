@@ -50,6 +50,18 @@
 ## Installation
 
 ```bash
+npm install @crystalneth0/react-native-phone-number-input
+```
+
+Or using yarn:
+
+```bash
+yarn add @crystalneth0/react-native-phone-number-input
+```
+
+### Original Installation
+
+```bash
 $ yarn add react-native-phone-number-input
 ```
 

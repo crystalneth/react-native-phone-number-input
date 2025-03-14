@@ -22,6 +22,9 @@
 </p>
 
 ## Want to show your love?
+
+> **Fixed Warning**: This PR updates the dependency on `react-native-country-picker-modal` to eliminate the React warning: "Warning: defaultProps is deprecated and will be removed in a future major release. Use JavaScript default parameters instead." All functionality remains the same with no API changes.
+
 <p>Click on 🌟 button.</p>
 
 

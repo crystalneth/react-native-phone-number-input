@@ -4,8 +4,8 @@ import {
   CountryCode,
   CallingCode,
   Country,
-} from "react-native-country-picker-modal";
-import { CountryFilterProps } from "react-native-country-picker-modal/lib/CountryFilter";
+} from "@crystalneth0/react-native-country-picker-modal";
+import { CountryFilterProps } from "@crystalneth0/react-native-country-picker-modal/lib/CountryFilter";
 export interface PhoneInputProps {
   withDarkTheme?: boolean;
   withShadow?: boolean;
